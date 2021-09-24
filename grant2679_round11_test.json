@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "generated_at": "https://gitcoin.co/grants/v1/api/export_addresses/grant2679_round11.json",
+    "generated_on": "2021-09-24",
+    "stat": { "unique_addresses_found": 6125 },
+    "meta": {
+      "start": "2021-09-08",
+      "end": "2021-09-24",
+      "round": 11,
+      "grant": 2679
+    }
+  },
+  "addresses": [
+    ["0xDA048BED40d40B1EBd9239Cdf56ca0c2F018ae65"]
+  ]
+}

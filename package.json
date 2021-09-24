@@ -1,0 +1,13 @@
+{
+  "name": "gr11_pass",
+  "version": "1.0.0",
+  "main": "drop.js",
+  "author": "u",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "web3": "^1.5.3"
+  }
+}
